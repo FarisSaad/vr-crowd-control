@@ -1,0 +1,30 @@
+newmtl RoadMaterial
+Kd 0.6102941 0.6102941 0.6102941
+illum 2
+
+newmtl RoadSideMaterial
+Kd 0.6117647 0.6117647 0.6117647
+illum 2
+
+newmtl RealisticTopMaterial
+Kd 1 1 1
+map_Kd null
+map_Bump null
+illum 2
+
+newmtl RealisticSideMaterial
+Kd 1 1 1
+map_Kd null
+map_Bump null
+illum 2
+
+newmtl TerrainMaterial
+Kd 1 1 1
+map_Kd null
+illum 2
+
+newmtl TerrainMaterial (Instance)
+Kd 1 1 1
+map_Kd D:\#Mitch Work temp#\Hackathon_Hajj\Project\hajj-hackathon\Library\vr-crowd-control\Assets\_Models\Makkah\.png
+illum 2
+
