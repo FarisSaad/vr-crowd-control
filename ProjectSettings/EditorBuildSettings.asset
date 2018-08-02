@@ -8,7 +8,10 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
-  - enabled: 1
+  - enabled: 0
     path: Assets/GoogleVR/Demos/Scenes/HelloVR.unity
     guid: bb36d2905dc634f1c9eecb35beecaca8
+  - enabled: 1
+    path: Assets/_Scenes/Makkah.unity
+    guid: a45667edbd1971144939d3f1682efbe6
   m_configObjects: {}
