@@ -1,37 +1,42 @@
 fileFormatVersion: 2
-guid: 17198507b44a04b479f0e4913fbfb7e7
+guid: 7d6c8e2265bcaad479e6f0afd88e3c93
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: door1
-    100002: door2
-    100004: door3
-    100006: door4
-    100008: model
-    100010: //RootNode
-    400000: door1
-    400002: door2
-    400004: door3
-    400006: door4
-    400008: model
-    400010: //RootNode
+    100000: //RootNode
+    100002: door1
+    100004: door2
+    100006: door3
+    100008: door4
+    100010: floor
+    100012: walls
+    400000: //RootNode
+    400002: door1
+    400004: door2
+    400006: door3
+    400008: door4
+    400010: floor
+    400012: walls
     2100000: RealisticSideMaterial
     2100002: phong3
     2300000: door1
     2300002: door2
     2300004: door3
     2300006: door4
-    2300008: model
+    2300008: floor
+    2300010: walls
     3300000: door1
     3300002: door2
     3300004: door3
     3300006: door4
-    3300008: model
-    4300000: model
-    4300002: door2
+    3300008: floor
+    3300010: walls
+    4300000: walls
+    4300002: floor
     4300004: door1
-    4300006: door4
+    4300006: door2
     4300008: door3
+    4300010: door4
   externalObjects: {}
   materials:
     importMaterials: 1
