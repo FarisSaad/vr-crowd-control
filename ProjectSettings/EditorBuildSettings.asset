@@ -14,7 +14,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/_Scenes/Makkah.unity
     guid: a45667edbd1971144939d3f1682efbe6
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Scenes/mak.unity
     guid: 1a9dc4e232d9fc8409f51fd82cfb8a84
+  - enabled: 1
+    path: Assets/_Scenes/Makkah_VR.unity
+    guid: c0262e75da1bb1543ab489281c79ef88
   m_configObjects: {}
